@@ -1,16 +1,17 @@
-### Hi there 👋
+ <br/><br/>
+ <h1 align="center"><img src="https://octodex.github.com/images/spidertocat.png" width="250px" height="250px"></h1>
+ <div  align="center">
+<h1 align="center">السلام عليكم <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><br> Muhammad Danial Siddiqui <br></h1>  
+<h3 align="center"> Data Science Enthusiast | Machine Learning Engineer | Microsoft Certified </h3>
+ <hr>
+    <h2 align="center">Welcome To my <i><b> GitHub Profile </b></i></h2>
+</div>
 
+<div  align="center">
+    <h1 align="center"><img src="https://octodex.github.com/images/gangnamtocat.png" width="250px" height="250px"></h1>
 
-I call myself BIGG000, well there's a story about this but we don't have a time because we have to code the new things.
-I love so much to work on Open-Source Projects & want to fly my codes in the world with the application.
-
-Some Stuff about me:
-
-- 🔭 I’m currently working on Everything that i love to do.
-- 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything related to me & your stuff dude.
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/muhammad-danial-siddiqui-475672157/">LinkedIn</a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my **Machine Learning && Data Science** skills
+- 👯 Looking to collaborate on **Open Source Projects in Machine Learning && Data Science Projects**
+- 😁  Looking to get the buddy to start my **Learning Intelligence Series**
+- 💬 Ask me about **Data Science && Machine Learning**
+</div>
